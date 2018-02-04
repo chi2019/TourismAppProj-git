@@ -13,6 +13,10 @@ public class Communicator extends FragmentPagerAdapter {
         super(fm);
     }
 
+
+    /*
+    *
+    * */
     @Override
     public android.support.v4.app.Fragment getItem(int position) {
         //Initializing Fragments
